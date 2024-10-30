@@ -1,7 +1,9 @@
 # DATA 512 - Project Part 1 - Common Analysis
 ## Wildfire Analysis for Palmdale, California
+### Baisakhi Sarkar, Master of Science in Data Science at University of Washington 2023-2025
 
-#### Baisakhi Sarkar, Master of Science in Data Science at University of Washington 2023-2025
+
+**❗Important Note: The starting dataset named USGS_Wildland_Fire_Combined_Dataset.json could not be uploaded to git since it is 2.17GB and even after compresion it is 700Mb. But locally that is placed inside the Data folder and used (from local) in the Wildfire_Analysis_Data_Acquisition.ipynb using relative path. The dataset was fetched from [Combined Wildland Fire Datasets for the United States and certain territories, 1800s-Present (combined wildland fire polygons)](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81)**
 
 ### Project Goal
 
